@@ -1,5 +1,5 @@
 # myrepo
 
-update on home comp
+update on class comp
 
 
